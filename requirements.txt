@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+ucimlrepo
+imbalanced-learn
+scikit-optimize
+sklearn-genetic-opt
